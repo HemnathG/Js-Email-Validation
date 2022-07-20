@@ -1,1 +1,1 @@
-# Js-Email-Validation
+Javascript-Email-Validation with Use Cases
